@@ -24,5 +24,5 @@ def fibonacci(n):
     return value
 
 # The first 21 Fibonacci numbers Fn are
-for n in range(1,6):
+for n in range(1,22):
     print(n ,":" , fibonacci(n))
