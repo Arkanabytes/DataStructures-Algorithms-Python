@@ -14,7 +14,7 @@ def is_unique(str):
     for i in range(0, len(str)):
 
         # Find ASCII value and check if it exists in set.
-        value = ord(str[i])
+        value = ord(str[i]) #ord() given a string of length one, return an integer 
         if chars[value]:
             return False
         chars[value] = True
