@@ -7,6 +7,6 @@
   - Leetcode "Easy" exercises:
       * Backspace String Compare_e
       * Two Sum_e
-  - Other:
+  - Cracking the coding interview exercises:
       * Fibonacci_number.py
       * is_unique.py
