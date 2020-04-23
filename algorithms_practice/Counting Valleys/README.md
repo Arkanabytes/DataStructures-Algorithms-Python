@@ -25,6 +25,7 @@ Print a single integer that denotes the number of valleys Gary walked through du
 
 #### Sample Input:
 8
+
 UDDDUDUU
 
 #### Sample Output:
