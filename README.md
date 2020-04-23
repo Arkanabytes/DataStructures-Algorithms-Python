@@ -2,6 +2,7 @@
 
 - Python-DataStructures.ipynb
 - Tree_Traversal_Algorithms.ipynb
+- Sorting_Algorithms.ipynb
 
 - Algorithms practice:
   - Leetcode "Easy" exercises:
