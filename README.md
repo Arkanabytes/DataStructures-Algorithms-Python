@@ -11,3 +11,6 @@
   - Cracking the coding interview exercises:
       * Fibonacci_number.py
       * is_unique.py
+  - HackerRank:
+      * Counting Valleys
+      * Sock Merchant
