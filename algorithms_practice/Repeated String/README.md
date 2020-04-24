@@ -42,4 +42,3 @@ a
 
 #### Explanation 1:
 Because all of the first n=1000000000000 letters of the infinite string are a, we print 1000000000000 on a new line.
-
