@@ -12,8 +12,6 @@ def repeatedString(s, n):
             num_a += 1
         if i == "a" and j < extraCharm:
             num_a_extra +=1
-        
-    
     result = ((n // lengh ) * num_a) + num_a_extra
     return result
 
