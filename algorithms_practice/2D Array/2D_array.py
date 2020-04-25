@@ -12,6 +12,7 @@ def hourglassSum(arr):
 
     return max_hr
 
+
 def calc_hoursum(arr,row,col):
     sum = 0
     
@@ -36,7 +37,6 @@ def calc_hoursum(arr,row,col):
 # -1 -9 -2 -4 -4 -5
 # -7 -3 -3 -2 -9 -9
 # -1 -3 -1 -2 -4 -5
-
 
 # 0 -4 -6 0 -7 -6
 # -1 -2 -6 -8 -3 -1
