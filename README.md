@@ -16,3 +16,5 @@
       * Sock Merchant
       * Jumping on the Clouds
       * Repeated String
+      * 2D Array
+      * Left rotation
